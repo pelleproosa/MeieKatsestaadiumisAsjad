@@ -8,7 +8,9 @@ public class MAIN {
 
 	public static void main(String[] args) {
 		
-		HermanMain.start();
+		
+		System.out.println("Vali, kumb programm peaks jooksma ja võta // eest");
+		//HermanMain.start();
 
 		//PelleMain.start();
 
