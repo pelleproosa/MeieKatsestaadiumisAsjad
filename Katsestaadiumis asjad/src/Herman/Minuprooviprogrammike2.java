@@ -2,7 +2,7 @@ package Herman;
 
 public class Minuprooviprogrammike2 {
 
-	public static String stringinimi(String a) {
+	public static String nimi(String a) {
 		// TODO Auto-generated method stub
 
 		
