@@ -4,7 +4,7 @@ public class PelleMain {
 
 	public static void start() {
 		
-		System.out.println("Pelle programm jookseb!");
+		System.out.println("Pelle programm jookseb!    HAHHHAAAAAAA!!!!!!");
 	}
 
 }
