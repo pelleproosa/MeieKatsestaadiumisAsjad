@@ -4,7 +4,7 @@ public class HermanMain {
 
 	public static void start() {
 	
-System.out.println("Hermani programm jookseb!");
+System.out.println("Hermani programm jookseb hetkel!");
 int a=0;
 String stringike="Ju";
 
