@@ -6,7 +6,7 @@ public class Minuprooviprogrammike2 {
 		// TODO Auto-generated method stub
 
 		
-		a=a+" on nõme nimi!";
+		a=a+" on nõme nimi!"; 
 		
 		return a;
 	}
