@@ -12,17 +12,17 @@ public class PotikasEnneMängu1 {
 		multiMassiivMinuKäsi = new int[36][6];
 		int multiMassiivParimadKoos[][];
 		multiMassiivParimadKoos = new int[6][4];
-		int trump;
-		int LR; //loendur: endaKäeKaardidLäbiKäia
-		int LR2; //loendur: võrrelda enda käe kaarte omavahel, et leida selle mängija "parim" "alustaja kaart"  
-		int IDLR; //loendur: võrrelda erinevate mängijate "parimaid" "alustaja kaarte"
-		int asteNumber; //6,7,8,9,10,11,12,13,14 
-		int mastNumber; //1,2,3,4
-		int kaardiTrumpVäärtus; //1,2,3,4,5 //5 on trump //seda väärtust ma tegelikult ei kasuta siin üldse (EnneMängu osas); kuid ma tahan seda kasutada mänguosas, tapmisel
-		int mastiKõrgusAlustamisel; //0,1,2,3,4
-		int järjekorraNumberMeeles; //peab meeles huvipakkuvat kaarti massiivis
-		int mänguAlustajaID; //mängu alustaja, ehk see, kellel on "pisem" kaart
-		int playerActive; //mängija, kelle kord on tegutseda
+		int trump=0;
+		int LR=0; //loendur: endaKäeKaardidLäbiKäia
+		int LR2=0; //loendur: võrrelda enda käe kaarte omavahel, et leida selle mängija "parim" "alustaja kaart"  
+		int IDLR=0; //loendur: võrrelda erinevate mängijate "parimaid" "alustaja kaarte"
+		int asteNumber=0; //6,7,8,9,10,11,12,13,14 
+		int mastNumber=0; //1,2,3,4
+		int kaardiTrumpVäärtus=0; //1,2,3,4,5 //5 on trump //seda väärtust ma tegelikult ei kasuta siin üldse (EnneMängu osas); kuid ma tahan seda kasutada mänguosas, tapmisel
+		int mastiKõrgusAlustamisel=0; //0,1,2,3,4
+		int järjekorraNumberMeeles=0; //peab meeles huvipakkuvat kaarti massiivis
+		int mänguAlustajaID=0; //mängu alustaja, ehk see, kellel on "pisem" kaart
+		int playerActive=0; //mängija, kelle kord on tegutseda
 		
 		trump = 3; //esialgu on trump ärtu
 		

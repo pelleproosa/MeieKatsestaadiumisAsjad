@@ -2,7 +2,8 @@ package Herman;
 
 public class HermanMain {
 
-	public static void start() {
+	//public static void start() {
+	public static void main(String[] args) {
 	
 System.out.println("Hermani programm jookseb hetkel!");
 
