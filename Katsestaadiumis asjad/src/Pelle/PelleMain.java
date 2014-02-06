@@ -6,6 +6,7 @@ public class PelleMain {
 		
 		System.out.println("Pelle programm jookseb!");
 		Mysql.start();
+		CurrentDirectory.start();
 	}
 
 }
