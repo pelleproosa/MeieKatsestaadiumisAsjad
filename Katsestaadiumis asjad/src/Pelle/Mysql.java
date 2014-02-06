@@ -42,10 +42,21 @@ System.out.println("Connected!");
 			    System.out.println("ID: "+id+"  Nimi: "+str1+"  Perenimi: "+str2+"  Vanus: "+vanus);	
 			     
 			  }
-			  //STEP 6: Clean-up environment
+			  
+			  
+			  //################################################## nyyd pannakse avatud asjad kinni
+			  
+			  
+			  
+			  
+			  
+			  
+
 			  rs.close();
 			  stmt.close();
 			  conn.close();
+			  
+			  
 			}catch(SQLException se){
 			  //Handle errors for JDBC
 			  se.printStackTrace();
